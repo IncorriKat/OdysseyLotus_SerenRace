@@ -8,4 +8,7 @@
   <ButcheredSeren.stages.0.description>나는 다른 세렌을 도축했어. 기분이 나쁠지언정 이건 우리가 해야할 일을 하는거 뿐이야.</ButcheredSeren.stages.0.description>
   <KnowButcheredSeren.stages.0.label>세렌이 도축당함</KnowButcheredSeren.stages.0.label>
   <KnowButcheredSeren.stages.0.description>우리는 다른 세렌을 도축했지. 기분이 나쁠지언정 이건 우리가 해야할 일을 하는거 뿐이야.</KnowButcheredSeren.stages.0.description>
+  
+  <hi4311_DrankSerenBlood.stages.0.label>{0} 에서 세렌의 피를 마셨다</hi4311_DrankSerenBlood.stages.0.label>
+  <hi4311_DrankSerenBlood.stages.0.description>세렌의 피를 빨아먹으면 정말 꿀맛이야. 맛이 마치 포도 사탕 같아! 피의 만족감이란 바로 이런 거지!</hi4311_DrankSerenBlood.stages.0.description>
 </LanguageData>
